@@ -1,11 +1,11 @@
 // 기술 목록
-const skills = ['JavaScript', 'HTML', 'CSS', 'React', 'Node.js'];
+const skills = ["python,C 말곤 아무것도 못함 "];
 
 // 프로젝트 목록
 const projects = [
-    { name: '프로젝트 1', description: '프로젝트 1에 대한 설명' },
-    { name: '프로젝트 2', description: '프로젝트 2에 대한 설명' },
-    { name: '프로젝트 3', description: '프로젝트 3에 대한 설명' }
+    { name: '물리 1', description: '한바퀴만 돌림' },
+    { name: '화학 1', description: '1단원 개빡쎔' },
+    { name: '생명과학 1', description: "유전 잘 못함" }
 ];
 
 // 기술 목록 표시
